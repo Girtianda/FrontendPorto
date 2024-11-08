@@ -27,7 +27,7 @@ const Navbar: React.FC = () => {
         {/* Social Icons on the right */}
         <div className="flex space-x-4 hidden md:flex">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Girtianda"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white transform transition-transform duration-300 hover:scale-105"
